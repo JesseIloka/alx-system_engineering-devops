@@ -1,2 +1,2 @@
 #!/bin/bash
-link ls -la __ls__
+ln /bin/ls __ls__
