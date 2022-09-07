@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | grep [13579]
+ls -1 | grep ((if ls -l%2!=0))
