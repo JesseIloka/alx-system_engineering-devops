@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 | grep ((if ls -l%2!=0))
+ls | sed g\;n
