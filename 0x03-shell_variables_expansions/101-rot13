@@ -1,2 +1,2 @@
 #!/bin/bash
-/bin/sed y/abcdefghijklmnopqrstuvwxy
+tr 'A-Za-z' 'N-ZA-Mn-za-m'
